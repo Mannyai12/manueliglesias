@@ -13,7 +13,7 @@
 - Managed and optimized data systems and databases, including ETL processes, to ensure seamless data flow and integrity, reducing data errors by 25% and enhancing overall data management
 - Collaborated with program managers and executive leaders to develop and implement data-driven strategies, leveraging statistical analysis to uncover business trends and recommending process improvements that boosted operational effectiveness by 10%
 
-**Data Engineer Intern @ Tora Insights (_2024 - Present)**
+**Data Engineer Intern @ Tora Insights (_2024 - Present_)**
 - Assist in designing, constructing, and maintaining data pipelines and architectures in a startup environment
 - Perform data wrangling and transformation to prepare datasets for analysis
 - Utilize Python, and SQL for data processing, storage solutions, and data retrieval (aggregate functions, multiple joins)
