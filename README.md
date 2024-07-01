@@ -26,8 +26,8 @@
 ### Book Recommendation System
 
 I designed a book recommendation tool capable of handling over 10 million records, leveraging **Python** and integrating machine learning and natural language processing techniques, including TF-IDF and cosine similarity. The tool features NLP pipelines for detailed analysis of book descriptions, utilizing tokenization, stemming, and lemmatization. These methods significantly enhanced the accuracy of the system's recommendations. Focused improvements allowed me to solve scalability problems effectively. As a result, the system saw improved user satisfaction and overall efficiency.
-![Powerpoint]([assets/Book RecommendationProject/Book Recommendation Project.pdf])
-![Code](/assets/Book RecommendationProject/Text_BookRecs.ipynb) 
+[Powerpoint](assets/Book RecommendationProject/Book Recommendation Project.pdf]](https://github.com/Mannyai12/manueliglesias/blob/9b604dc81b7d9b3335a170042bf77b0ef672b037/assets/Book%20RecommendationProject/Book%20Recommendation%20Project.pdf)
+[Code]([/assets/Book RecommendationProject/Text_BookRecs.ipynb](https://github.com/Mannyai12/manueliglesias/blob/35bed0470ac2076c627a3b160ded18714468314f/assets/Book%20RecommendationProject/Text_BookRecs.ipynb) 
 
 ### Movie Rating Prediction System
 
