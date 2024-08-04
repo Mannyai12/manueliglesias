@@ -23,6 +23,12 @@
 - Excel expert in data analysis, transforming raw data into comprehensible formats for streamlined sales operations
 
 ## Projects 
+### Customer Management API
+
+I developed a Customer Data Platform (CDP) API that collects and analyzes data from sales transactions, competitor pricing, and market trends to help businesses optimize their pricing strategies. The API, leveraging FastAPI and SQLAlchemy, was designed to manage customer data, products, and transactions. It implemented CRUD operations with secure authentication and authorization mechanisms. Key features included competitor price monitoring and sales performance analysis. The API featured complex database schemas and relationships to ensure data integrity and optimal performance, with Pydantic used for robust data validation. Extensive API testing was conducted using Postman to ensure reliable, error-free operations and seamless integration. Building the app was moderately challenging, utilizing data aggregation and basic pricing algorithms. As a result, the system improved data management efficiency and overall performance.
+
+- [Code for Customer Management API](https://github.com/Mannyai12/manueliglesias/blob/35bed0470ac2076c627a3b160ded18714468314f/assets/Book%20RecommendationProject/Text_BookRecs.ipynb)
+
 ### Book Recommendation System
 
 I designed a book recommendation tool capable of handling over 10 million records, leveraging **Python** and integrating machine learning and natural language processing techniques, including TF-IDF and cosine similarity. The tool features NLP pipelines for detailed analysis of book descriptions, utilizing tokenization, stemming, and lemmatization. These methods significantly enhanced the accuracy of the system's recommendations. Focused improvements allowed me to solve scalability problems effectively. As a result, the system saw improved user satisfaction and overall efficiency.
