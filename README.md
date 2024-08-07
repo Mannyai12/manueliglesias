@@ -1,4 +1,4 @@
-#### Technical Skills: Python, SQL, AWS, Snowflake
+![image](https://github.com/user-attachments/assets/4fd266f9-78ab-4ae3-bbb0-e1d4eb5ff882)#### Technical Skills: Python, SQL, AWS, Snowflake
 
 ## Education
 - M.S., Business Analytics | Fordham University (_December 2024_)
@@ -6,21 +6,21 @@
 
 ## Work Experience
 **Data Analyst @ Be Strong International (_2024 - Present_)**
-- Led efforts to refine grant data collection and reporting procedures, ensuring data quality and accuracy in the CRM and TCT systems, resulting in a 20% improvement in reporting efficiency
+- Conducted data collection and reporting refinement projects, significantly improving CRM system efficiency by 20%, leveraged SQL, Python, and Tableau for in-depth analysis and dashboard creation, boosting program efficiency by 15%
+- Managed data systems optimization, including ETL processes, resulting in a 25% reduction in data errors and improved data management practices
+-  Partnered with leadership to develop data-driven strategies, using statistical analysis to identify trends and recommend improvements, enhancing operational effectiveness by 10%
 - Utilized SQL, Python, and Tableau to conduct in-depth data analysis, creating interactive dashboards and comprehensive reports that provided actionable insights, driving a 15% increase in program efficiency
-- Managed and optimized data systems and databases, including ETL processes, to ensure seamless data flow and integrity, reducing data errors by 25% and enhancing overall data management
-- Collaborated with program managers and executive leaders to develop and implement data-driven strategies, leveraging statistical analysis to uncover business trends and recommending process improvements that boosted operational effectiveness by 10%
 
 **Data Engineer Intern @ Tora Insights (_2024 - Present_)**
-- Assist in designing, constructing, and maintaining data pipelines and architectures in a startup environment
-- Perform data wrangling and transformation to prepare datasets for analysis
-- Utilize Python, and SQL for data processing, storage solutions, and data retrieval (aggregate functions, multiple joins)
-- Ensure data quality and integrity through thorough testing and validation
+- Built and maintained data pipelines and architectures in a startup environment, performing data wrangling and transformation for analysis
+-	Developed and documented a RESTful API using FastAPI and SQLAlchemy for customer data management, including creating CRUD operations, designing database schemas, and ensuring seamless data integration and retrieval
+-	Ensured data integrity with thorough testing and validation, utilizing Pydantic for robust data validation, and implemented comprehensive error handling and data consistency checks to maintain high data quality
 
 **Data Systems Specialist @ D & B Tile Distributers (_2023 - 2024_)**
-- Collect and clean datasets for analysis, ensuring data accuracy and reliability
-- Collaborate with team members to develop and implement data-driven solutions to business challenges
-- Excel expert in data analysis, transforming raw data into comprehensible formats for streamlined sales operations
+- Spearheaded data collection and cleaning, ensuring accuracy and reliability for business intelligence initiatives.
+-	Partnered with cross-functional teams to implement data-driven solutions, enhancing operational efficiencies.
+-	Leveraged advanced Excel and Tableau to transform raw data into actionable insights, streamlining sales operations.
+-	Improved CRM system efficiency, increasing data accuracy and user satisfaction by 15%.
 
 ## Projects 
 ### Customer Management API
