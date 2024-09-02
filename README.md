@@ -16,7 +16,7 @@
 -	Developed and documented a RESTful API using FastAPI and SQLAlchemy for customer data management, including creating CRUD operations, designing database schemas, and ensuring seamless data integration and retrieval
 -	Ensured data integrity with thorough testing and validation, utilizing Pydantic for robust data validation, and implemented comprehensive error handling and data consistency checks to maintain high data quality
 
-**Data Systems Specialist @ D & B Tile Distributers (_2023 - 2024_)**
+**Data Systems Analyst @ D & B Tile Distributers (_2023 - 2024_)**
 - Spearheaded data collection and cleaning, ensuring accuracy and reliability for business intelligence initiatives.
 -	Partnered with cross-functional teams to implement data-driven solutions, enhancing operational efficiencies.
 -	Leveraged advanced Excel and Tableau to transform raw data into actionable insights, streamlining sales operations.
