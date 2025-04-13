@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/4fd266f9-78ab-4ae3-bbb0-e1d4eb5ff882
+
+
+#### Technical Skills: Python, SQL, AWS, Snowflake
 
 ### Book Recommendation System
 
@@ -14,6 +16,6 @@ I developed a movie rating prediction system, overseeing over 700,000 movie reco
 ### Predictive Credit Card Approval Model
 
 I utilized logistic regression and classification tree methods on a dataset of 690 individuals from Kaggle, achieving an 88% accuracy rate. By employing k-fold cross-validation, the average probability for predicted credit card approvals was enhanced to 70%. The analysis provided crucial insights for financial institutions on risk assessment. It highlighted the significant impact of employment status, income, and credit score on credit card approval probabilities. These findings offer guidance for financial institutions to refine their approval processes effectively.
-
+![image](https://github.com/user-attachments/assets/4fd266f9-78ab-4ae3-bbb0-e1d4eb5ff882)#### Technical Skills: Python, SQL, AWS, Snowflake
 - [Powerpoint for Predictive Credit Card Approval Model](https://github.com/Mannyai12/manueliglesias/blob/d1cff15f4502245a7f1b6afc184476a5dbfb2151/assets/PredictiveCCApprovalModel/Predictive%20Credit%20Card%20Approval%20Model.pdf)
 - [Code for Predictive Credit Card Approval Model](https://github.com/Mannyai12/manueliglesias/blob/d1cff15f4502245a7f1b6afc184476a5dbfb2151/assets/PredictiveCCApprovalModel/PredictiveCreditCardApprovalModel.ipynb)
